@@ -2,3 +2,4 @@
 ![alt text](join-fediverse.gif)
 ![alt text](stamp_pleroma_now.png)
 ![alt text](archlinux.gif)
+![alt text](linux.gif)
