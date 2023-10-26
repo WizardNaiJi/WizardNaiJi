@@ -7,3 +7,5 @@
 My main hub: [https://git.reisen.church/NaiJi](https://git.reisen.church/NaiJi)
 
 Click here:   [<img src="selfprivacy.png" alt="alt text" height="15" width="15"/>](https://selfprivacy.org/) ✨
+
+Send your prayers to <a href="https://en.touhouwiki.net/wiki/Reisen_Udongein_Inaba">Reisen</a>! <img src="praying.png" style="width:15px">
