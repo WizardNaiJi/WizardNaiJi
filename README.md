@@ -1,4 +1,3 @@
-[![alt text](stamp_reisen_church.png)](https://reisen.church/)
 [![alt text](join-fediverse.gif)](https://fediverse.party/en/fediverse/)
 [![alt text](stamp_pleroma_now.png)](https://pleroma.social)
 [![alt text](archlinux.gif)](https://archlinux.org/)
