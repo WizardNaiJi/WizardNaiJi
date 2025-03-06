@@ -3,6 +3,6 @@
 [![alt text](archlinux.gif)](https://archlinux.org/)
 [![alt text](linux.gif)](https://distrowatch.com/table.php?distribution=arch)
 
-My main hub: [https://git.reisen.church/NaiJi](https://git.reisen.church/NaiJi)
+My main hub: [https://code.htmlbyhand.online/NaiJi](https://code.htmlbyhand.online/NaiJi)
 
 Click here:   [<img src="selfprivacy.png" alt="alt text" height="15" width="15"/>](https://selfprivacy.org/) ✨
